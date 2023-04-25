@@ -15,6 +15,7 @@ spec:
   owner: team-b
   system: sample-system
   apiConsumedBy: ['component:sample-component']
-  providesApis: ['api:sample2-api']
+  providesApis:
+    - sample2-api
 
 
