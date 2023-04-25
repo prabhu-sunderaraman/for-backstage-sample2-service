@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample2-component
+  # This is an extra long description with Markdown
+  description: |
+    [Sample2 component](http://sample2.com) is an example API
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-b
+
