@@ -5,6 +5,10 @@ metadata:
   # This is an extra long description with Markdown
   description: |
     [Sample2 component](http://sample2.com) is an example API
+  links:
+    - url: https://github.com/prabhu-sunderaraman/for-backstage-sample2-service
+      title: Github repo
+      icon: github
 spec:
   type: service
   lifecycle: experimental
