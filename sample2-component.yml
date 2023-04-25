@@ -10,5 +10,6 @@ spec:
   lifecycle: experimental
   owner: team-b
   system: sample-system
+  apiConsumedBy: ['component:sample-component']
 
 
